@@ -1,0 +1,94 @@
+body{
+    background:linear-gradient(to left,lightgreen,darkgreen);
+}
+.main{
+    padding:30px;
+    border:1px solid black;
+    background-color:white;
+}
+.title{
+    border-radius:20px;
+    text-align:center;
+    background-image:url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFTS5fWgiDLXDQoYm60_5374JIVtZxUfI3OA&s');
+    background-size:cover;
+    background-position:center;
+    opacity:0.7;
+    background-color:rgba(46,139,87,0.7);
+    background-blend-mode:overlay;
+    padding:2px;
+    color:white;
+    overflow:hidden;
+    width:100%;
+}
+.apply{
+    background-color:white;
+    color:darkgreen;
+    width:12%;
+    text-align:center;
+    margin:0 auto;
+    border-radius:10px;
+    padding:5px;
+    margin-bottom:10px;
+}
+a{
+    color:seagreen;
+}
+.apply2{
+    background-color:seagreen;
+    color:white;
+    width:12%;
+    text-align:center;
+    border-radius:10px;
+    padding:5px;
+    margin-left:30px;
+}
+.apply2 a{
+    color:white;
+}
+.dscp{
+    background-color:lightyellow;
+    color:black;
+    padding:2px;
+    border-radius:10px;
+    margin:10px;
+    width:100%;
+}
+.fee{
+    border-radius:25px;
+    width:80%;
+    border:1px solid #ddd;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+    padding:20px;
+    margin:3px;
+}
+.profile{
+    border-radius:25px;
+    width:80%;
+    border:1px solid #ddd;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+    padding:20px;
+    margin:3px;
+    margin-bottom:15px;
+}
+.education{
+    border-radius:25px;
+    width:80%;
+    border:1px solid #ddd;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+    padding:20px;
+    margin:3px;
+    margin-bottom:15px;
+}
+.socio{
+    border-radius:25px;
+    width:80%;
+    border:1px solid #ddd;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+    padding:20px;
+    margin:3px;
+    margin-bottom:15px;
+}
+.contact{
+    width:30%;
+    margin-top:5px;
+}
