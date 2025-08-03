@@ -2,7 +2,7 @@
 
 This is a frontend-only project which mimics the layout and content of the **Honhaar Scholarship** portal using pure HTML and CSS.
 
-> ⚠️ This is not the official scholarship website. All links redirect to the real portal.
+View it here: [https://ehsaan-qazi.github.io/html-css-scholarship-site/](https://ehsaan-qazi.github.io/html-css-scholarship-site/)
 
 ## Features
 - Clean, responsive layout
